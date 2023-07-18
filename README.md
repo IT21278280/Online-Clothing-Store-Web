@@ -27,3 +27,8 @@ purchase new clothes, jewellery, and more. This organization, like other fashion
 store facilities, has a massive number of designs for its customers.
 
 #### Technologies used - ReactJS, ExpressJS, NodeJS, MongoDB
+
+![D1](https://github.com/IT21278280/Online-Clothing-Store-Web/assets/99583379/0916cf51-d76e-4e88-a46c-fce0d151f681)
+![D2](https://github.com/IT21278280/Online-Clothing-Store-Web/assets/99583379/7442be92-6548-45a2-88fc-70953a78b6cf)
+![D3](https://github.com/IT21278280/Online-Clothing-Store-Web/assets/99583379/684c625a-dee2-48ed-aee4-eb6d72d10b28)
+
