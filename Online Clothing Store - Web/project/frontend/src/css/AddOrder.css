@@ -1,0 +1,75 @@
+
+
+#divDetail{
+    background: linear-gradient(to bottom, #ffffff, #a16a2b);
+    padding: 30px;
+}
+
+
+
+#addOrderHead{
+    font-size: 45px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#addOderborder{
+
+  border: solid rgb(0, 0, 0) 3px;
+  width: 950px;
+  height: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  background: linear-gradient(to right, #dddb5a, #a16a2b) ;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  
+  
+}
+
+#addOrderbtn{
+    background-color: #A78364;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-weight: bold;
+    width: 200px;
+    border: black solid 0.5px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    border-radius: 0;
+    
+}
+
+.orderInput {
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+    border-color: #000000;
+    
+
+}
+
+.addOrdertextlable{
+
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: bold !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+
+}
+
+
+  #chekout_button{
+
+    margin-top: 50px;
+    font-size: 20px;
+    color: #c2c284;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 200px;
+
+}

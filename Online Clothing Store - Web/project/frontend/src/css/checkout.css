@@ -1,0 +1,204 @@
+
+
+.checkoutDiv1{
+
+    background: linear-gradient(to bottom, #ffffff, #a16a2b);
+
+}
+
+.checkoutHead{
+    font-size: 45px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+.bInfo{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.buyerLine{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 90%;
+
+}
+.BuyerNorderInfo{
+
+    display: flex;
+
+}
+.buyerInfoSec{
+
+    flex-basis: 60%;
+}
+
+
+.textBoxCheckout{
+    background-color: #f2f2f2;
+    width: 240px !important;
+    border-radius: 5px;
+    border-color: #000000;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+}
+
+.textForTextBox{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+.buyerName{
+    margin-right: 0px !important;
+}
+
+
+.textBoxCheckout::placeholder {
+    font-style: italic !important;
+    color: #999;
+    
+  }
+
+#remBtn{
+    background-image: url('../img/bell_icon_ch.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 12px 24px; 
+    width: 100px;
+    height: 120px;
+    cursor: pointer;
+    margin-left: 40px;
+    background-size: 110%; 
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+
+}
+
+.bell{
+
+    width: 100px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+
+}
+
+.reminderTab{
+    background: linear-gradient(to bottom, #ffffff, #a16a2b);
+}
+
+.reminderTitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #ffffff, #9e7548);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.reminderFooter{
+    justify-content: center;
+    background: linear-gradient(to bottom, #ffffff, #a16a2b);
+}
+
+.productBorder{
+    margin-right: 30px;
+}
+
+.discTitle{
+    font-size: 20px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding: 0px;
+    font-weight: bold;
+}
+.bellTitle{
+    font-size: 20px;
+    color: #caca7f;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    padding: 0px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+#negoBtn{
+    background-color: #A78364;
+    font-family: 'Times New Roman', Times, serif;
+    width: 180px;
+    font-size: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+}
+
+.OrderSum{
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    background-color: rgb(232, 198, 156);
+    border: 2px black solid;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+    
+    
+}
+
+
+.orderSum{
+
+    padding: 40px;
+    text-align: center;
+    font-size: 35px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+
+.summInfo{
+
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 25px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+#continueShop-txt{
+    
+    margin-left: 10px;
+    text-align: center;
+    font-style: italic;
+    color: brown;
+
+}
+
+.checkoutButton{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#chekout_button{
+
+    background-color: #A78364 !important;
+    font-size: 25px !important;
+    color: #000000 !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    padding: 7px !important;
+    font-weight: bold !important;
+    width: 220px !important;
+    border: black solid 0.5px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+    border-radius: 0 !important;
+}

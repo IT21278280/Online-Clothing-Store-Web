@@ -1,0 +1,264 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap"); 
+
+
+.Initialcontainer{
+    background: linear-gradient(to bottom, #ffffff, #a16a2b);
+}
+
+
+.div1{
+    color: rgba(40, 31, 33, 0.817);
+}
+.headText{
+    font-size: 45px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-weight: bold; 
+}
+.headingNlogo{
+    display: flex;
+    justify-content: center;
+}
+.cartLogo{
+    margin-top: 20px;
+    width: 50px;
+}
+.form-check-cart{
+    margin: 10px 60px;
+
+}
+.hr_hr-blurry{
+
+    margin-left: 30px;
+    margin-right: 30px;
+    border-top: 5px solid rgb(81, 78, 78);
+}
+
+.cartEmpty{
+    font-size: 25px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold; 
+}
+
+.backBtn{
+    margin-left: 10px;
+    width: 120px;
+    height: 50px;
+}
+
+.clickable-image-cart img {
+    cursor: pointer !important;
+  }
+
+.productBorder{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 550px;
+
+}
+
+.form-check-cart{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
+.partsCart{
+
+    display: flex;
+    margin-left: 30px;
+
+}
+
+.cartProductContainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+.imgCheckBox{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 1rem;
+}
+
+.imgCart1{
+   
+    height: 200px;
+    width: 200px;
+    margin-bottom: 0px;
+    border: solid black 2px;
+    box-shadow: 0 0 17px rgba(0, 0, 0, 0.6);
+    
+}
+
+
+.productSelectedDisplay {
+    display: flex;
+    flex-direction: column;
+    /* other styles */
+  }
+
+
+.productContainer{
+    display: flex;
+    gap: 30px;
+}
+.picDeatils{
+    margin-top: 60px;
+    flex-grow: 1;
+}
+
+.productName{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.productSize{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.productQuantity{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.cartProduct_details{
+    text-align: center;
+    font-size: 20px;
+}
+
+.closeIcon{
+
+    margin-left: 40px;
+    margin-top: 80px;
+    border: none;
+    font-size:25px;
+    font-weight: bold;
+    width: 25px;
+    background: linear-gradient(to bottom, #ffffff, #a16a2b);
+
+}
+.vrDfelx{
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: #000000;
+}
+#CoopunButton{
+
+    width: 400px;
+    background-color: #A78364;
+    font-weight: bold;
+    margin-left: 120px ;
+    margin-top: 30px;
+    font-size: larger;
+    color: white;
+    border-color: black;
+    border-radius: 0;
+    
+
+}
+
+.OrderSummary{
+    border-radius: 20px;
+    width: 500px;
+    height: 650px;
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    border: 2px black solid;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+    background: linear-gradient(to bottom, #f5eea2, #a16a2b);
+}
+
+
+.orderSum{
+
+    padding: 40px;
+    text-align: center;
+    font-size: 35px;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.summInfo{
+
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 23px !important;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+#continuShop-txt{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-style: italic;
+    color: brown;
+
+}
+
+.prodDetails{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(95, 21, 21, 0.635);
+}
+
+.checkoutButton{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#chekout_button{
+
+   
+        background-color: brown;
+        color: #c3c3a8;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 10px;
+        font-weight: bold;
+        width: 200px;
+        border: black solid 0.5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        text-decoration: none !important;
+        
+    
+}
+
+.checkoutBtn{
+
+    background-color: #A78364 !important;
+    color: #000000 !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+    width: 250px !important;
+    border: black solid 0.5px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+    border-radius: 0 !important;
+    font-size: 25px !important;
+    
+}
+
+
+
+.shopmoreBtn:hover{
+    background-color:brown !important ;
+}
+
+/* .checkoutBtn:hover{
+    background-color:rgb(53, 121, 11) !important ;
+} */
+
+

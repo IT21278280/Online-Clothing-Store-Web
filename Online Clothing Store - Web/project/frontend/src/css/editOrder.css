@@ -1,0 +1,93 @@
+
+
+#divDetail{
+    background-color: rgb(236, 225, 211);
+    padding: 30px;
+}
+
+#addOrderHead{
+    font-size: 45px;
+    color: #44443C;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.addOderborder{
+
+  border: solid black 3px;
+  width: 950px;
+  height: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  background: linear-gradient(to right, #dddb5a, #a16a2b) ;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  
+}
+
+
+#orderInput {
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 20px !important;
+
+}
+.Order-form-control{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+}
+
+.textForTextBox{
+
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: bold !important;
+
+}
+
+.textForTextBox{
+
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: bold !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+
+}
+
+
+.btn-orderUpdate{
+    background-color: #A78364 !important;
+    color: #000000 !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+    width: 250px !important;
+    border: black solid 0.5px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+    border-radius: 0 !important;
+}
+
+.orderCancel{
+    background-color: #bb7147 !important;
+    color: #000000 !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+    width: 200px !important;
+    border: black solid 0.5px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6) !important;
+    border-radius: 0 !important;
+}
+
+.orderCancel:hover {
+    background-color: #cd1616 !important; /* Darker green */
+  }
+
+  .btn-orderUpdate:hover {
+    background-color: #069b2b !important; /* Darker green */
+  }
+
+
